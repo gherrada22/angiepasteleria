@@ -10,7 +10,7 @@ export const Footer: React.FC = () => {
             <div className="flex items-center mb-4">
               <div className="w-8 h-8 mr-2 overflow-hidden rounded-full">
               <img 
-                src="/icon/torta_abajo.png" 
+                src="/icon/torta_abajo.ico" 
                 alt="Angie Pastelería" 
                 className="object-cover w-full h-full" 
               />
