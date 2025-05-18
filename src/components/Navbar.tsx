@@ -22,7 +22,7 @@ export const Navbar: React.FC<NavbarProps> = ({ isScrolled }) => {
         {/* Logo */}
         <div className="flex items-center">
           <img 
-        src="/icon/torta_arriba.png" 
+        src="/icon/torta_arriba.ico" 
         alt="Logo" 
         className="mr-2 h-10 w-10 object-contain transition-all" 
           />
